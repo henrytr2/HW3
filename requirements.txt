@@ -1,4 +1,4 @@
 scikit-learn
-seborn
+seaborn
 pandas
 altair
